@@ -1,0 +1,30 @@
+body{
+  color:#08050F;
+  background-size: 100%;
+  background-image: url("Image1.jpg");
+
+}
+div.container{
+  background-image:linear-gradient(#ebfffd,#9eded9);
+  padding-bottom: 10%;
+  background-attachment: fixed;
+}
+h1{
+  text-align:center;
+  text-transform: uppercase;
+  padding-bottom:3%;
+  padding-top: 1%;
+  font-weight:bold;
+}
+a{
+  color:#0d3075;
+  font-weight:bold;
+  text-decoration: none;
+}
+p {
+  padding:0.5%;
+}
+  table, th, td {
+  border: 2px solid black;
+}
+tr:hover {background-color: #f5f5f5;}

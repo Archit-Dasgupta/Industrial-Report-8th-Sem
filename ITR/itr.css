@@ -1,0 +1,25 @@
+body{
+  color:#08050F;
+  background-size: 100%;
+  background-image: url("image2.jpg");
+
+}
+div{
+  background-image:linear-gradient(#e6f7f7,#127875);
+  padding-bottom: 10%;
+}
+h1{
+  text-align:center;
+  text-transform: uppercase;
+  padding-bottom:3%;
+  padding-top: 1%;
+  font-weight:bold;
+}
+p a{
+  color:#090979;
+  font-weight:bold;
+  text-decoration: none;
+}
+p {
+  padding:0.5%;
+}
